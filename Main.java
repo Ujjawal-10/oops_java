@@ -19,7 +19,8 @@
 //     public static void main(String [] args){
 //             int age =30;
 //             Node greenNode= new Node(age,null);
-//     }
+//     }f
+//euerjgjgjgkjerioj
 // }
 public class Main{
 
